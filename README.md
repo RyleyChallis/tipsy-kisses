@@ -1,11 +1,11 @@
-# Il Cortile — Concept Build
+# Tipsy Kisses — Concept Build
 
-A responsive, high-performance website build designed for an upscale Italian restaurant concept.
+A luxury design showcase and concept build for an upscale bar service. *(Independent concept project, no commercial affiliation).*
 
-* **Live Site:** [View Demo](https://ryleychallis.github.io/il-cortile/)
+* **Live Site:** [View Demo](https://ryleychallis.github.io/tipsy-kisses/)
 * **Tech Stack:** HTML5, Modern CSS, Vanilla JavaScript
 
 ### Features
-* Fluid, mobile-first responsive layout
-* Hand-crafted CSS for rapid loading times and clean styling
-* Semantic HTML5 markup
+* High-end typography and mood-matching aesthetics
+* Lightweight asset optimization for fast loading
+* Fully responsive layout across all screen sizes
